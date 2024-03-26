@@ -17,5 +17,5 @@ In particular:
 
 
 
-## Acknoledgement
+## Acknowledgement
 This research is supported by ZTE Communication Technology Service Co., Ltd., China.
