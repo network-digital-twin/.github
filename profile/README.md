@@ -1,6 +1,5 @@
 ## QUAINT Network Simulator
 
-
 This is the official webpage for **Quaint**: (**QU**ality-of-service-**A**ware **I**ntelligent **N**etwork digital **T**win).
 
 **Quaint** is a highly efficient parallel and distributed simulator for QoS-aware DiffServ networks. 
@@ -16,6 +15,9 @@ In particular:
 - The scripts for data cleaning, visualisation, etc., are in the repo [experiment-utils](https://github.com/network-digital-twin/experiment-utils). Especially, the plotting scripts for all figures can be found in [src/plots.ipynb](https://github.com/network-digital-twin/experiment-utils/blob/experiments-metis/src/plots.ipynb) of the `experiments-metis` branch.
 
 ## Parameters used in the evaluation 
+
+<img src="https://github.com/network-digital-twin/.github/assets/15967195/5ad458ef-6344-42f4-8560-dc2294b1bdda" alt="zte-subgraph-0" style="width:500px;"/>
+
 
 ### Node level configurations:
 ```
