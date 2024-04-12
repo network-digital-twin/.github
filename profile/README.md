@@ -16,6 +16,10 @@ In particular:
 
 ## Parameters used in the evaluation 
 
+The network topology used in the evaluation is shown in the figure below. 
+There are 5,237 nodes (routers/switches) and 6067 links, with 5149 access nodes, 70 mixed nodes, and 18 kernel nodes.
+The black dots are “access” routers. The blue dots are “mixed” routers. The red dots are “kernel” routers. An access router usually has 1 to 3 ports with 25Gbps bandwidth. A mixed or access switch can have over 10 ports with 10-100Gbps bandwidth.
+
 <img src="https://github.com/network-digital-twin/.github/assets/15967195/5ad458ef-6344-42f4-8560-dc2294b1bdda" alt="zte-subgraph-0" style="width:500px;"/>
 
 
