@@ -14,6 +14,24 @@ In particular:
 - The experiments related to OMNeT++/INET can be found in the repo [omnet-bench](https://github.com/network-digital-twin/omnet-bench)
 - The scripts for data cleaning, visualisation, etc., are in the repo [experiment-utils](https://github.com/network-digital-twin/experiment-utils). Especially, the plotting scripts for all figures can be found in [src/plots.ipynb](https://github.com/network-digital-twin/experiment-utils/blob/experiments-metis/src/plots.ipynb) of the `experiments-metis` branch.
 
+To cite our paper:
+```
+@InProceedings{10.1007/978-3-031-69583-4_18,
+author="Huang, Zhuoyao
+    and Zhang, Nan
+    and Shen, Jingran
+    and Diamantopoulos, Georgios
+    and Hua, Zhengchang
+    and Tziritas, Nikos
+    and Theodoropoulos, Georgios",
+title="Distributed Simulation for Digital Twins of Large-Scale Real-World DiffServ-Based Networks",
+booktitle="Euro-Par 2024: Parallel Processing",
+year="2024",
+publisher="Springer Nature Switzerland",
+pages="255--269"
+}
+```
+
 ## Parameters used in the evaluation 
 
 The network topology used in the evaluation is shown in the figure below. 
